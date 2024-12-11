@@ -1,4 +1,10 @@
-.import/
-export_presets.cfg
-*.import
-*.pck
+.idea/
+.vs/
+*.user
+/local
+
+bin/
+obj/
+
+manifestation/
+thunderstore/GDWeave
