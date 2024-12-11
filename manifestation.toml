@@ -1,4 +1,4 @@
-id = "Seltraeh.WebSmithing"
+id = "WebSmithing"
 name = "Web_Smithing"
 description = "A mod that adds mining and smithing functionality to the fish frenzy!"
 version = "0.1"
@@ -9,7 +9,6 @@ icon = "./thunderstore/icon.png"
 readme = "./thunderstore/README.md"
 changelog = "./thunderstore/CHANGELOG.md"
 
-# both are optional here, pick what you want
 [project]
 godot = "./project/project.godot"
 
