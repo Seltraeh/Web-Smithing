@@ -1,0 +1,10 @@
+{
+    "Id": "WebSmithing",
+    "PackPath": "WebSmithing.pck",
+    "Metadata": {
+        "Name": "Web Smithing",
+        "Author": "Esphee",
+        "Version": "0.1",
+        "Description": "A silly little addition to the goofy world of fish flinging!"
+    }
+}
